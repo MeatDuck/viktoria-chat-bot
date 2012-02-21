@@ -1,8 +1,9 @@
 <?php
+include_once 'ChatBot.php';
+
 error_reporting(E_ALL);
 ini_set('display_errors','On');
 
-include_once 'ChatBot.php';
 ChatBot::getInstance()->setupUI();
 if(ChatBot::getInstance()->isEnabled()){
 	echo 'listen:' . ChatBot::getInstance()->say("listen");
