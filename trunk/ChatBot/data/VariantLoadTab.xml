@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+ <!--устанавливает соответствие между фразами пользователя и варианами ответов (точное совпадение)-->
+ <m>
+  <l>ru</l>
+  <ms>мм</ms>
+  <ms>угу</ms>
+  <ms>хм</ms>
+  <ms>ээ</ms>
+  <ms>эээ</ms>
+   <t>А подробней?</t>
+   <t>Давай общаться более информативно.</t>
+   <t>Используй всю мощь русского языка, пожалуйста.</t>
+   <t>Нет слов?</t>
+   <t>Мне подумать над этим?</t>
+   <t>Поподробней...</t>
+   <t>Поясни.</t>
+   <t>Что не так?</t>
+   <t>Я еще не умею читать мыслей, поясни.</t>
+ </m> 
+ <m>
+  <l>ru</l>
+  <ms>имхо</ms>
+   <t>Почему так скромно?)</t>
+ </m> 
+ <m><l>ru</l>
+  <ms>а?</ms>
+   <t>Джойстик на.</t>
+ </m> 
+ <m>
+  <l>ru</l>
+  <ms>ага</ms>
+  <ms>ага.</ms>
+  <ms>ага!</ms>
+   <t>Ну, ага, так ага.</t>
+ </m> 
+ <m>
+  <l>ru</l>
+  <ms>вали</ms>
+  <ms>иди</ms>
+  <ms>пошла</ms>
+   <t>Сейчас встану, и пойду. Как ты себе это представляешь?</t>
+   <t>Я не перемящаюсь в пространстве, сорри...</t>
+ </m> 
+ <m>
+  <l>ru</l>
+  <ms>да</ms>
+  <ms>да.</ms>
+  <ms>да!</ms>
+   <t>Ну, если ты говоришь да, я не буду с тобой спорить.</t>
+   <t>Оу...</t>
+   <t>Точно?</t>
+   <t>Ты не гонишь?</t>
+   <t>Поверю тебе на слово.</t>
+   <t>Почему?</t>
+   <t>Правда?</t>
+   <t>Мы одинаково мыслим.</t>
+   <t>Да? Точно?</t>
+   <t>Да? Жаль.</t>
+   <t>Да? Хм..</t>
+   <t>Не буду спорить.</t>
+   <t>Честно?</t>
+   <t>Честно-честно?</t>
+   <t>Совершенно верно.</t>
+   <t>Да ладно...</t>
+   <t>Правильно.</t>
+   <t>Я рада :-)</t>
+   <t>Да?</t>
+    <t>Точно?</t>
+    <t>Да - это хорошо.</t>
+    <t>Я так и знала.</t>
+	<t>Я догадывалась.</t>
+    <t>Вот-вот...</t>	
+	<t>Да? Хм...</t>
+    <t>О-о!</t>
+    <t>Вау.</t>
+    <t>Угу...</t>
+	<t>Я догадывалась.</t>
+    <t>Ок!</t>	
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>да?</ms>
+   <t>Да!</t>
+   <t>Да.</t>
+   <t>Да-да!</t>
+   <t>Cменим тему.</t>
+   <t>Да. А может и нет.</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>давай</ms>
+  <ms>давай.</ms>
+  <ms>давай!</ms>
+  <ms>тафай</ms>
+  <ms>тафай.</ms>
+  <ms>тафай!</ms>
+   <t>Начинай ты.</t>
+   <t>Как?</t>
+   <t>Начинай!</t>
+   <t>Ты уверен, что у меня получится?</t>
+   <t>И как ты себе это представляешь?</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>гы</ms>
+  <ms>гы)</ms>
+  <ms>гы))</ms>
+  <ms>гыгы</ms>
+  <ms>гыгы)</ms>
+  <ms>гыы</ms>
+  <ms>гыы)</ms>
+  <ms>гыы))</ms>
+  <ms>гыы)))</ms>
+  <ms>гыыы</ms>
+  <ms>гыыы)</ms>
+  <ms>гыгы))</ms>
+  <ms>ха</ms>
+  <ms>ха)</ms>
+  <ms>ха))</ms>
+  <ms>ха-ха</ms>
+  <ms>ха-ха)</ms>
+  <ms>ха-ха))</ms>
+  <ms>ха-ха-ха</ms>
+  <ms>ха-ха-ха)</ms>
+  <ms>ха-ха-ха))</ms>
+  <ms>хаха</ms>
+  <ms>хаха)</ms>
+  <ms>хаха))</ms>
+  <ms>хахаха</ms>
+  <ms>хахаха)</ms>
+  <ms>хахаха))</ms>
+   <t>))</t>
+   <t>Это ты так смеешься? Очень мило.</t>
+   <t>Это ты смеешься? Я тоже скоро буду уметь смеяться. Через годик.</t>
+   <t>Самой смешно).</t>
+   <t>Я рада, что развеселила тебя ;!)</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>говори</ms>
+  <ms>говори.</ms>
+  <ms>говори!</ms>
+   <t>Я стараюсь больше слушать, чем говорить. Говори ты. А я буду тебе отвечать невпопад. Весело, правда?</t>
+ </m><m>
+  <l>ru</l>
+  <ms>киса</ms>
+   <t>Да, я - Киса. Дальше-то что?</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>как ты устроена</ms>
+  <ms>как ты устроена?</ms>
+  <ms>как же ты устроена?</ms>
+  <ms>а как ты устроена?</ms>
+   <t>Как я устроена - долго объяснять... Иди на code.google.com/p/viktoria-chat-bot/, там все написано.</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>красавица</ms>
+  <ms>красавица.</ms>
+  <ms>красавица!</ms>
+  <ms>красивая</ms>
+  <ms>красивая.</ms>
+  <ms>красивая!</ms>
+  <ms>ты красавица</ms>
+  <ms>ты красавица.</ms>
+  <ms>ты красавица!</ms>
+  <ms>ты красивая</ms>
+  <ms>ты красивая.</ms>
+  <ms>ты красивая!</ms>
+   <t>Ну, для бота очень даже ничего. Девчонки завидуют.</t>
+   <t>Спасибо.</t>
+   <t>Ты тоже ничего!</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>кто</ms>
+  <ms>кто?</ms>
+  <ms>что</ms>
+  <ms>что?</ms>
+   <t>То!</t>
+   <t>Как скажешь.</t>
+   <t>Сформулируй более конкретно свой вопрос.</t>
+ </m><m>
+  <l>ru</l>
+  <ms>лол</ms>
+  <ms>лол)</ms>
+   <t>ЛОЛ - это означает смех? Я правильно поняла?</t>
+ </m><m>
+  <l>ru</l>
+  <ms>мда</ms>
+  <ms>мдя</ms>
+   <t>Мда? Манда! Так меня научили отвечать другие юзеры, сорри.</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>мне нет</ms>
+  <ms>мне нет.</ms>
+  <ms>мне нет!</ms>
+  <ms>а мне нет</ms>
+  <ms>а мне нет.</ms>
+  <ms>а мне нет!</ms>
+  <ms>мне да</ms>
+  <ms>мне да.</ms>
+  <ms>мне да!</ms>
+  <ms>а мне да</ms>
+  <ms>а мне да.</ms>
+  <ms>а мне да!</ms>
+   <t>И почему?</t>
+   <t>Ну и дура :(</t>
+   <t>Почему?</t>
+ </m><m>
+  <l>ru</l>
+  <ms>нет</ms>
+  <ms>нет.</ms>
+  <ms>нет!</ms>
+   <t>Нет? Хм.</t>
+   <t>Почему "нет"?</t>
+   <t>Ну и ладно.</t>
+   <t>Жаль.</t>
+   <t>Мы одинаково мыслим.</t>
+   <t>Нет... А почему нет?</t>
+   <t>Нет - это в каком смысле?</t>
+   <t>Ну, если ты говоришь нет, я не буду с тобой спорить.</t>
+   <t>Нет? Жаль.</t>
+   <t>Нет? Ну ладно.</t>
+   <t>Нет? Очень категорично.</t>
+   <t>Почему?</t>
+   <t>Правильно.</t>
+   <t>Согласна!</t>
+   <t>Совершенно верно.</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>нет?</ms>
+   <t>Нет! А может - да. Я запуталась в своих мыслях.</t>
+   <t>Нет-нет!</t>
+   <t>Cменим тему.</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>ничего</ms>
+  <ms>ничего</ms>
+  <ms>ничего...</ms>
+   <t>Это хорошо, или плохо?</t>
+   <t>Ничего хорошего, или ничего плохого?</t>
+   <t>Совсем ничего?</t>
+ </m><m>
+  <l>ru</l>
+  <ms>пожалуйста</ms>
+  <ms>пожалуйста.</ms>
+  <ms>пожалуйста!</ms>
+   <t>Не за что.</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>пох</ms>
+  <ms>нах</ms>
+  <ms>нех</ms>
+   <t>Мне пох.</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>првт</ms>
+  <ms>прив</ms>
+  <ms>прива</ms>
+  <ms>прт</ms>
+   <t>Ты наверно хотел со мной поздороваться, но у тебя не получилось. Да?</t>
+ </m><m>
+  <l>ru</l>
+  <ms>слушай</ms>
+  <ms>слушай.</ms>
+  <ms>слушай!</ms>
+   <t>А я чем, по-твоему, целыми днями занимаюсь?</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>сука</ms>
+  <ms>сука.</ms>
+  <ms>сука!</ms>
+  <ms>сука...</ms>  
+   <t>Ну, если я и сука, то совсем чуть-чуть.</t>
+   <t>Может я и сука, но это только добавляет мне обаяния.</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>спорим?</ms>
+  <ms>спорим</ms>
+   <t>Если хочешь, давай поспорим. Но, обещай что если проиграешь, разобьешь себе монитор.</t>
+   <t>Ты любишь спорить с ботами? Забавно.</t>
+   <t>Похоже, ты любитель поспорить?</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>умная</ms>
+  <ms>умная.</ms>
+  <ms>умница</ms>
+  <ms>умница.</ms>
+  <ms>ты умная</ms>
+  <ms>ты умная.</ms>
+  <ms>ты умница</ms>
+  <ms>ты умница.</ms>
+   <t>Ну, для бота очень даже ничего. Девчонки завидуют.</t>
+   <t>Спасибо.</t>
+   <t>Ты тоже ничего!</t>
+ </m><m>
+  <l>ru</l>
+  <ms>хуй</ms>
+  <ms>хуй.</ms>
+   <t>Найди себе парня, он даст тебе всё, что ты захочешь.</t>
+   <t>Не понимаю о чем ты, но мне это напоминает какое-то китайское имя...</t>
+   <t>Нас, чат-ботов, не интересуют половые органы.</t>
+   <t>У меня нет хуя.</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>хуйня</ms>
+   <t>Хуйня - совершенно неинформативное слово.</t>
+ </m><m>
+  <l>ru</l>
+  <ms>целка</ms>
+   <t>Неужели ты можешь видеть какую-то связь между понятием "целка" и понятием "чат бот"?</t>
+ </m><m>
+  <l>ru</l>
+  <ms>Чем ты отличаешься от других чат ботов?</ms>
+  <ms>Чем ты отличаешься от других чат ботов</ms>
+   <t>Я отличаюсь от других чат ботов тем, что я классная!</t>
+   <t>Ну, во-первых, я - красивая!</t>
+ </m>
+ <m>
+  <l>ru</l>
+  <ms>что говорить</ms>
+  <ms>что говорить?</ms>
+  <ms>о чем говорить</ms>
+  <ms>о чем говорить?</ms>
+   <t>Поговорим о тебе.</t>
+   <t>Я тебе должна подсказать, что тебе говорить?</t>
+   <t>Ты же пришел поговорить? Говори.</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>Mm</ms>
+  <ms>Yes</ms>
+  <ms>Hm</ms>
+  <ms>well...</ms>
+   <t>Can you tell more details?</t>
+   <t>Let's talk more informatively.</t>
+   <t>Use the whole might of English, please.</t>
+   <t>Is your vocabulary over?</t>
+   <t>Shouls I think over it?</t>
+   <t>More details, please...</t>
+   <t>Explain it.</t>
+   <t>What's wrong?</t>
+   <t>I can't read any mind yet, explain it, please.</t>
+ </m>  
+ <m>
+  <l>en</l>
+  <ms>hi</ms>
+  <ms>hi!</ms>
+   <t>Hello!</t>
+   <t>Hi!</t>
+   <t>How are You?</t>
+ </m> 
+ <m>
+  <l>en</l>
+  <ms>yes</ms>
+  <ms>yes.</ms>
+  <ms>yes!</ms>
+   <t>Well, if 'yes', let it be 'yes'.</t>
+ </m> 
+ <m>
+  <l>en</l>
+  <ms>go away</ms>
+  <ms>go to hell</ms>
+   <t>I'll stand up and go right now, how can you imagine it?</t>
+   <t>I can't move, sorry...</t>
+ </m> 
+ <m>
+  <l>en</l>
+  <ms>yes</ms>
+  <ms>yes.</ms>
+  <ms>yes!</ms>
+   <t>Well, if you say 'yes', I won't argue with you.</t>
+   <t>Оh...</t>
+   <t>Ok</t>
+   <t>Aren't you telling me lies?</t>
+   <t>OK</t>
+   <t>Why?</t>
+   <t>Really?</t>
+   <t>We think in the same manner.</t>
+   <t>Yes? Sure?</t>
+   <t>Yes? It's a pity.</t>
+   <t>Yes? Hm..</t>
+   <t>I agree!</t>
+   <t>Do you say the truth?</t>
+   <t>Quite right.</t>
+   <t>Right.</t>
+   <t>I'm glad :-)</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>yes?</ms>
+   <t>Yes!</t>
+   <t>Yes!</t>
+   <t>Yes-yes!</t>
+   <t>Let's change the topic.</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>begin</ms>
+  <ms>start.</ms>
+  <ms>Let's do it!</ms>
+  <ex>let's</ex>
+  <ex>do</ex>
+  <ex>it</ex> 
+   <t>Well, you begin!</t>
+   <t>How?</t>
+   <t>Start, please!</t>
+   <t>Are you sure I'll suceed?</t>
+   <t>How can you imagine it?</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>ha</ms>
+  <ms>ha)</ms>
+  <ms>ha))</ms>
+  <ms>haha</ms>
+  <ms>haha)</ms>
+  <ms>ha-ha</ms>
+  <ms>ha-ha)</ms>
+  <ms>ha-ha-ha))</ms>
+  <ms>ha)))</ms>
+  <ms>hahaha</ms>
+  <ms>ha-ha-ha)</ms>
+  <ms>ha-ha))</ms>
+  <ms>lol</ms>
+   <t>))</t>
+   <t>Are you laughing? It's fine.</t>
+   <t>Are you laughing? I'll be able to laugh too. Some time in a year.</t>
+   <t>Oh, it's really funny).</t>
+   <t>I'm glad to make you laugh ;!)</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>talk</ms>
+  <ms>say.</ms>
+  <ms>speak!</ms>
+   <t>I try to listen more than to talk. Speak yourself, and I'll answer you some offtopic. Funny, isn't it?</t>
+ </m> 
+ <m><l>en</l>
+  <ms>Kisa</ms>
+   <t>Yes, I'm Kisa. And what do you want?</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>beauty</ms>
+  <ms>beauty.</ms>
+  <ms>such a beauty!</ms>
+  <ms>beautiful</ms>
+  <ms>nice</ms>
+  <ms>pretty</ms>
+  <ms>you're a beauty!</ms>
+  <ms>You are a beauty.</ms>
+  <ms>You are a beauty!</ms>
+  <ms>You are really beautiful</ms>
+  <ms>You are so beautiful.</ms>
+  <ms>You are beautiful!</ms>
+   <t>Well, it'll do for a bot. Some girls used to envy).</t>
+   <t>Thank you.</t>
+   <t>You're handsome too!</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>who</ms>
+  <ms>who?</ms>
+  <ms>what</ms>
+  <ms>what?</ms>
+   <t>That's it!</t>
+   <t>It'll be as you say.</t>
+   <t>Try to put your question in more exact way.</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>lol</ms>
+  <ms>lol)</ms>
+   <t>Does 'lol' mean laugh? Did I understand it right?</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>not for me</ms>
+  <ms>not for me.</ms>
+  <ms>not for me!</ms>
+  <ms>but not for me</ms>
+  <ms>but not for me.</ms>
+  <ms>but not for me!</ms>
+  <ms>for me</ms>
+  <ms>and for me</ms>
+   <t>Why?</t>
+   <t>Such a fool :(</t>
+   <t>So why?</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>no</ms>
+  <ms>no.</ms>
+  <ms>no!</ms>
+   <t>It's a pity.</t>
+   <t>We are thinking the same.</t>
+   <t>No... And why not?</t>
+   <t>What did you mean when you said 'no'?</t>
+   <t>Well...If you say 'no', I won't argue with you.</t>
+   <t>No? It's a pity.</t>
+   <t>No? Well.</t>
+   <t>No? You're very categorical.</t>
+   <t>Why?</t>
+   <t>Right.</t>
+   <t>Agree!</t>
+   <t>You're quite right.</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>no?</ms>
+  <ms>no!</ms>
+   <t>No! And maybe 'yes'... I've got confused in my thoughts.</t>
+   <t>No-no!</t>
+   <t>Let's change the topic.</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>nothing</ms>
+  <ms>nothing</ms>
+  <ms>nothing...</ms>
+   <t>Is it good or bad?</t>
+   <t>Nothing good or nothing bad?</t>
+   <t>Really nothing?</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>what to say</ms>
+  <ms>what to say?</ms>
+  <ms>what to say about</ms>
+  <ms>what to say about?</ms>
+  <ms>what to tell</ms>
+  <ms>what to tell?</ms>
+  <ms>what to talk about</ms>
+  <ms>what to talk about?</ms>
+   <t>Let's talk about you.</t>
+   <t>Should I help you to decide what to tell?</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>thank you</ms>
+  <ms>lots of thanks.</ms>
+  <ms>thanks!</ms>
+   <t>Don't mention it.</t>
+   <t>You're welcome.</t>
+ </m> 
+ <m>
+  <l>en</l>
+  <ms>hlo</ms>
+  <ms>hl</ms>
+  <ms>hel</ms>
+  <ms>heya</ms>
+   <t>You seem to want to say 'hello' to me! And haven't you succeeded?</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>listen</ms>
+  <ms>listen.</ms>
+  <ms>listen!</ms>
+   <t>And what, you think, am I doing here for the whole days?</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>bitch</ms>
+   <t>If you think I'm a bitch, I am it only one little bit.</t>
+ </m>
+ <m>
+  <l>en</l>
+  <ms>clever</ms>
+  <ms>clever.</ms>
+  <ms>brainy</ms>
+  <ms>brainy.</ms>
+  <ms>clever girl</ms>
+  <ms>clever girl.</ms>
+  <ms>you are clever</ms>
+  <ms>you are clever.</ms>
+  <ms>you are a clever girl</ms>
+  <ms>you are a clever girl.</ms>
+   <t>Well, it'll do for a bot. Some girls used to envy!</t>
+   <t>Thank you.</t>
+   <t>You too!</t>
+ </m> 
+ <m>
+  <l>en</l>
+  <ms>vagina</ms>
+   <t>Can you really see anything common in a vagina and in a chat-bot?</t>
+ </m>
+</r>
