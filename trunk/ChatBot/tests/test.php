@@ -1,5 +1,5 @@
 <?php
-include_once 'ChatBot.php';
+include_once '../ChatBot.php';
 
 error_reporting(E_ALL);
 ini_set('display_errors','On');
