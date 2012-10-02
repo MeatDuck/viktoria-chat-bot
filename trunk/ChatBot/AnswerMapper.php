@@ -1,4 +1,4 @@
-﻿<?php
+ <?php
 
 class AnswerMapper {
 	private $storage = null;
@@ -302,7 +302,7 @@ class AnswerMapper {
 	}
 	
 	public function __destruct(){
-		$this->storage->set("bot_last_phrase", $this->output);
+		$this->storage->set("bot_last_phrase", mb_strtolower($this->output, "UTF-8"));
 	}
 }
 
